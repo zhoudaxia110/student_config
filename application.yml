@@ -1,7 +1,3 @@
-#定义用户默认的链接环境
-spring:
-  profiles:
-    active: dev
 ---   #定义环境分割线
 server:
   port: 8091  #定义项目端口
